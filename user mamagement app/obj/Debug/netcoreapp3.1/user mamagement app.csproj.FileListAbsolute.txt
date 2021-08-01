@@ -1,0 +1,13 @@
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\bin\Debug\netcoreapp3.1\user mamagement app.exe
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\bin\Debug\netcoreapp3.1\user mamagement app.deps.json
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\bin\Debug\netcoreapp3.1\user mamagement app.runtimeconfig.json
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\bin\Debug\netcoreapp3.1\user mamagement app.runtimeconfig.dev.json
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\bin\Debug\netcoreapp3.1\user mamagement app.dll
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\bin\Debug\netcoreapp3.1\user mamagement app.pdb
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\obj\Debug\netcoreapp3.1\user mamagement app.csproj.AssemblyReference.cache
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\obj\Debug\netcoreapp3.1\user mamagement app.AssemblyInfoInputs.cache
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\obj\Debug\netcoreapp3.1\user mamagement app.AssemblyInfo.cs
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\obj\Debug\netcoreapp3.1\user mamagement app.csproj.CoreCompileInputs.cache
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\obj\Debug\netcoreapp3.1\user mamagement app.dll
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\obj\Debug\netcoreapp3.1\user mamagement app.pdb
+C:\Users\ofoezie ezichi fav\source\repos\user mamagement app\obj\Debug\netcoreapp3.1\user mamagement app.genruntimeconfig.cache

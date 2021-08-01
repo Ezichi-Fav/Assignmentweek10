@@ -1,0 +1,9 @@
+C:\Users\ofoezie ezichi fav\source\repos\usermanagementapp\userslib\bin\Debug\netcoreapp3.1\userslib.deps.json
+C:\Users\ofoezie ezichi fav\source\repos\usermanagementapp\userslib\bin\Debug\netcoreapp3.1\userslib.dll
+C:\Users\ofoezie ezichi fav\source\repos\usermanagementapp\userslib\bin\Debug\netcoreapp3.1\userslib.pdb
+C:\Users\ofoezie ezichi fav\source\repos\usermanagementapp\userslib\obj\Debug\netcoreapp3.1\userslib.csproj.AssemblyReference.cache
+C:\Users\ofoezie ezichi fav\source\repos\usermanagementapp\userslib\obj\Debug\netcoreapp3.1\userslib.AssemblyInfoInputs.cache
+C:\Users\ofoezie ezichi fav\source\repos\usermanagementapp\userslib\obj\Debug\netcoreapp3.1\userslib.AssemblyInfo.cs
+C:\Users\ofoezie ezichi fav\source\repos\usermanagementapp\userslib\obj\Debug\netcoreapp3.1\userslib.csproj.CoreCompileInputs.cache
+C:\Users\ofoezie ezichi fav\source\repos\usermanagementapp\userslib\obj\Debug\netcoreapp3.1\userslib.dll
+C:\Users\ofoezie ezichi fav\source\repos\usermanagementapp\userslib\obj\Debug\netcoreapp3.1\userslib.pdb

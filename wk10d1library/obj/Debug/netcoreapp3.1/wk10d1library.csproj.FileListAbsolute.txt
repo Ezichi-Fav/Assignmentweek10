@@ -1,0 +1,9 @@
+C:\Users\ofoezie ezichi fav\source\repos\wk10d1library\obj\Debug\netcoreapp3.1\wk10d1library.csproj.AssemblyReference.cache
+C:\Users\ofoezie ezichi fav\source\repos\wk10d1library\obj\Debug\netcoreapp3.1\wk10d1library.AssemblyInfoInputs.cache
+C:\Users\ofoezie ezichi fav\source\repos\wk10d1library\obj\Debug\netcoreapp3.1\wk10d1library.AssemblyInfo.cs
+C:\Users\ofoezie ezichi fav\source\repos\wk10d1library\obj\Debug\netcoreapp3.1\wk10d1library.csproj.CoreCompileInputs.cache
+C:\Users\ofoezie ezichi fav\source\repos\wk10d1library\bin\Debug\netcoreapp3.1\wk10d1library.deps.json
+C:\Users\ofoezie ezichi fav\source\repos\wk10d1library\bin\Debug\netcoreapp3.1\wk10d1library.dll
+C:\Users\ofoezie ezichi fav\source\repos\wk10d1library\bin\Debug\netcoreapp3.1\wk10d1library.pdb
+C:\Users\ofoezie ezichi fav\source\repos\wk10d1library\obj\Debug\netcoreapp3.1\wk10d1library.dll
+C:\Users\ofoezie ezichi fav\source\repos\wk10d1library\obj\Debug\netcoreapp3.1\wk10d1library.pdb

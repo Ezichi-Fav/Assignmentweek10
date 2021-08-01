@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Program Files\dotnet\sdk\5.0.301\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets" Link="Microsoft.PackageDependencyResolution.targets" />
+  </ItemGroup>
+
+</Project>
